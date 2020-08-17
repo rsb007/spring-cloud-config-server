@@ -6,5 +6,7 @@ spring:
           uri: https://github.com/rsb007/spring-config-repo
           username:
           password:
+  application:
+    name: spring-cloud-config-server
 server:
   port: 8888
